@@ -6,7 +6,7 @@ Acio Latte (stylized "ACIO LATTE") is a simple, clean .NET terminal application 
 
 ## How to use acio latte 📟
 
-+ A compatible Device with terminal (Windows, Linux or Mac)
++ A compatible device with terminal (Windows, Linux or Mac)
 + .NET 8.0 (LTS Version) installed in your hardware
 + Basic Knowledge of Terminal usage. 
 
@@ -14,10 +14,10 @@ You can run on any device that supports .NET technologies and provides a proper 
 
 ## Tools included 📟
 
-+ ACIO LATTE Basico - Basic Calculator.
-+ ACIO LATTE Medida - Measure Converter.
-+ ACIO LATTE Random - Random Integer Generator.
-+ ACIO LATTE P'cent - Porcent Calculator.
++ ✅ ACIO LATTE Basico - Basic Integer Calculator.
++ ♨️ ACIO LATTE Medida - Measure Converter.
++ ♨️ ACIO LATTE Random - Random Integer Generator.
++ ♨️ ACIO LATTE P'cent - Porcent Calculator.
 
 When these tools get done, I will give detailed instructions here!
 
@@ -28,6 +28,7 @@ Here you can verify all of the skills used to develop *ACIO LATTE*. Listed below
 + Visual Studio Code
 + .NET 8.0.407 SDK
 + .NET 8.0.407 Runtime
++ Linux Terminal
 + Git System
 
 ## License 📕:
