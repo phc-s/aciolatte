@@ -2,7 +2,7 @@
 
 ## About acio latte 🥛
 
-Acio Latte (stylized "ACIO LATTE") is a simple, clean .NET terminal application that provides basic calculation solutions in a very lightweight environment. Everything is properly instructed during runtime use. This project was made based on the Acio project made by myself (https://github.com/phc-s/acio), made before this more complex version, this project was made also to recycle my C# knowledge. Beyond planning to using it regularly, further updates are planned. 
+Acio Latte (stylized "ACIO LATTE") is a simple and clean series of .NET terminal applications that provides basic calculation solutions in a very lightweight environment. Everything is properly instructed during runtime use. This project was made based on the Acio project made by myself (https://github.com/phc-s/acio), made before this more complex version, this project was made also to recycle my C# knowledge. Beyond planning to using it regularly, further updates are planned. 
 
 ## How to use acio latte 📟
 
@@ -16,7 +16,7 @@ You can run on any device that supports .NET technologies and provides a proper 
 
 + ✅ ACIO LATTE Basico - Basic Integer Calculator.
 + ♨️ ACIO LATTE Medida - Measure Converter.
-+ ♨️ ACIO LATTE Random - Random Integer Generator.
++ ✅ ACIO LATTE Random - Random Integer Generator.
 + ♨️ ACIO LATTE P'cent - Porcent Calculator.
 
 When these tools get done, I will give detailed instructions here!
