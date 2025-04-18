@@ -1,0 +1,15 @@
+/home/phc-s/Downloads/aciolatte/aciolatte/RANDN/obj/Debug/net8.0/RANDN.GeneratedMSBuildEditorConfig.editorconfig
+/home/phc-s/Downloads/aciolatte/aciolatte/RANDN/obj/Debug/net8.0/RANDN.AssemblyInfoInputs.cache
+/home/phc-s/Downloads/aciolatte/aciolatte/RANDN/obj/Debug/net8.0/RANDN.AssemblyInfo.cs
+/home/phc-s/Downloads/aciolatte/aciolatte/RANDN/obj/Debug/net8.0/RANDN.csproj.CoreCompileInputs.cache
+/home/phc-s/Downloads/aciolatte/aciolatte/RANDN/obj/Debug/net8.0/RANDN.sourcelink.json
+/home/phc-s/Downloads/aciolatte/aciolatte/RANDN/bin/Debug/net8.0/RANDN
+/home/phc-s/Downloads/aciolatte/aciolatte/RANDN/bin/Debug/net8.0/RANDN.deps.json
+/home/phc-s/Downloads/aciolatte/aciolatte/RANDN/bin/Debug/net8.0/RANDN.runtimeconfig.json
+/home/phc-s/Downloads/aciolatte/aciolatte/RANDN/bin/Debug/net8.0/RANDN.dll
+/home/phc-s/Downloads/aciolatte/aciolatte/RANDN/bin/Debug/net8.0/RANDN.pdb
+/home/phc-s/Downloads/aciolatte/aciolatte/RANDN/obj/Debug/net8.0/RANDN.dll
+/home/phc-s/Downloads/aciolatte/aciolatte/RANDN/obj/Debug/net8.0/refint/RANDN.dll
+/home/phc-s/Downloads/aciolatte/aciolatte/RANDN/obj/Debug/net8.0/RANDN.pdb
+/home/phc-s/Downloads/aciolatte/aciolatte/RANDN/obj/Debug/net8.0/RANDN.genruntimeconfig.cache
+/home/phc-s/Downloads/aciolatte/aciolatte/RANDN/obj/Debug/net8.0/ref/RANDN.dll

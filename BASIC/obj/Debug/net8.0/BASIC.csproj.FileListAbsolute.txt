@@ -1,0 +1,15 @@
+/home/phc-s/Downloads/aciolatte/aciolatte/BASIC/obj/Debug/net8.0/BASIC.GeneratedMSBuildEditorConfig.editorconfig
+/home/phc-s/Downloads/aciolatte/aciolatte/BASIC/obj/Debug/net8.0/BASIC.AssemblyInfoInputs.cache
+/home/phc-s/Downloads/aciolatte/aciolatte/BASIC/obj/Debug/net8.0/BASIC.AssemblyInfo.cs
+/home/phc-s/Downloads/aciolatte/aciolatte/BASIC/obj/Debug/net8.0/BASIC.csproj.CoreCompileInputs.cache
+/home/phc-s/Downloads/aciolatte/aciolatte/BASIC/obj/Debug/net8.0/BASIC.sourcelink.json
+/home/phc-s/Downloads/aciolatte/aciolatte/BASIC/bin/Debug/net8.0/BASIC
+/home/phc-s/Downloads/aciolatte/aciolatte/BASIC/bin/Debug/net8.0/BASIC.deps.json
+/home/phc-s/Downloads/aciolatte/aciolatte/BASIC/bin/Debug/net8.0/BASIC.runtimeconfig.json
+/home/phc-s/Downloads/aciolatte/aciolatte/BASIC/bin/Debug/net8.0/BASIC.dll
+/home/phc-s/Downloads/aciolatte/aciolatte/BASIC/bin/Debug/net8.0/BASIC.pdb
+/home/phc-s/Downloads/aciolatte/aciolatte/BASIC/obj/Debug/net8.0/BASIC.dll
+/home/phc-s/Downloads/aciolatte/aciolatte/BASIC/obj/Debug/net8.0/refint/BASIC.dll
+/home/phc-s/Downloads/aciolatte/aciolatte/BASIC/obj/Debug/net8.0/BASIC.pdb
+/home/phc-s/Downloads/aciolatte/aciolatte/BASIC/obj/Debug/net8.0/BASIC.genruntimeconfig.cache
+/home/phc-s/Downloads/aciolatte/aciolatte/BASIC/obj/Debug/net8.0/ref/BASIC.dll
