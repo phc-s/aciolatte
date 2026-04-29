@@ -1,0 +1,56 @@
+aciolatte - INSTRUCTIONS.txt
+
+1. Navigation (Movement Mode)
+
+When you first start the app, you are in Movement Mode. Your selection is highlighted in Dark Blue.
+
+    Arrow Keys: Move the selection cursor around the grid.
+    Scrolling: If you move past the edge of the visible window (e.g., moving to row 21), the grid will automatically scroll to keep your cursor in view.
+    Enter: Switches to Editing Mode for the selected cell.
+
+
+2. Editing (Input Mode)
+
+When you press Enter, the status bar highlight turns Dark Green.
+
+    Typing: Anything you type appears in the status bar at the bottom.
+    Backspace: Deletes the last character typed.
+    Enter: Saves the content to the cell and triggers a Global Recalculation (updating all formulas).
+    Escape: Discards your current typing and returns to Movement Mode without saving.
+
+
+3. Data Entry Rules
+
+The spreadsheet handles three types of data:
+
+Labels (Text Data)
+Labels are descriptive headers like "Total," "Price," or "Date." They are displayed exactly as you type them. Their primary purpose is to provide context for the numbers around them; they are not used in mathematical calculations.
+
+Numbers (Values)
+Numbers, sureated as raw numeric values. Unlike labels, the software recognizes these as quantities that can be added, subtracted, or used in complex functions.
+
+Formulas (Calculations)
+Formulas are the "engine" of the spreadsheet. An example would be =A1+B1. These allow the spreadsheet to perform tasks automatically and update the results if the referenced numbers change.
+
+The engine uses standard "A1" notation:
+
+    References: Column letter + Row number (e.g., C10).
+    Math: = (A1 + A2) * 1.15 (calculates the sum of A1 and A2 plus a 15% tax).
+    Error Handling: If you reference an empty cell, it treats it as 0. If you make a math error (like dividing by zero), the cell will display #ERR.
+
+
+4. Technical Architecture
+
+Under the hood, the code is split into three main logic loops:
+
+    The Grid (Data Store): A 2D array of Cell objects. Each object stores the "hidden" formula and the "visible" display result.
+    The Parser (The Brain): When a formula is calculated, it uses a Regex (Regular Expression) to find cell coordinates, look up their values, and then hands the final math string to DataTable.Compute to solve the equation.
+    The Renderer (The View): A simple loop that draws the headers, then loops through a "window" of cells (the offR and offC variables) to draw only what fits on your screen.
+
+
+💡 Quick Advice
+
+    Column Limits: This simplified version supports columns A through Z.
+    Recalculation: To keep things fast, the app recalculates the entire sheet every time you press Enter on a cell. In a tiny clone like this, it's nearly instantaneous.
+    Truncation: If a word or number is longer than 10 characters, the display will cut it off to keep the columns aligned.
+    You need to increase your terminal's resolution a bit (99x as from Linux), because at very low resolutions the image may appear glitched.
