@@ -1,0 +1,28 @@
+/home/phc-s/Downloads/Visual Studio Code/aciolatte/bin/Debug/net8.0/aciolatte
+/home/phc-s/Downloads/Visual Studio Code/aciolatte/bin/Debug/net8.0/aciolatte.deps.json
+/home/phc-s/Downloads/Visual Studio Code/aciolatte/bin/Debug/net8.0/aciolatte.runtimeconfig.json
+/home/phc-s/Downloads/Visual Studio Code/aciolatte/bin/Debug/net8.0/aciolatte.dll
+/home/phc-s/Downloads/Visual Studio Code/aciolatte/bin/Debug/net8.0/aciolatte.pdb
+/home/phc-s/Downloads/Visual Studio Code/aciolatte/obj/Debug/net8.0/aciolatte.GeneratedMSBuildEditorConfig.editorconfig
+/home/phc-s/Downloads/Visual Studio Code/aciolatte/obj/Debug/net8.0/aciolatte.AssemblyInfoInputs.cache
+/home/phc-s/Downloads/Visual Studio Code/aciolatte/obj/Debug/net8.0/aciolatte.AssemblyInfo.cs
+/home/phc-s/Downloads/Visual Studio Code/aciolatte/obj/Debug/net8.0/aciolatte.csproj.CoreCompileInputs.cache
+/home/phc-s/Downloads/Visual Studio Code/aciolatte/obj/Debug/net8.0/aciolatte.dll
+/home/phc-s/Downloads/Visual Studio Code/aciolatte/obj/Debug/net8.0/refint/aciolatte.dll
+/home/phc-s/Downloads/Visual Studio Code/aciolatte/obj/Debug/net8.0/aciolatte.pdb
+/home/phc-s/Downloads/Visual Studio Code/aciolatte/obj/Debug/net8.0/aciolatte.genruntimeconfig.cache
+/home/phc-s/Downloads/Visual Studio Code/aciolatte/obj/Debug/net8.0/ref/aciolatte.dll
+/home/phc-s/Downloads/aciolatte (tomorrow)/bin/Debug/net8.0/aciolatte
+/home/phc-s/Downloads/aciolatte (tomorrow)/bin/Debug/net8.0/aciolatte.deps.json
+/home/phc-s/Downloads/aciolatte (tomorrow)/bin/Debug/net8.0/aciolatte.runtimeconfig.json
+/home/phc-s/Downloads/aciolatte (tomorrow)/bin/Debug/net8.0/aciolatte.dll
+/home/phc-s/Downloads/aciolatte (tomorrow)/bin/Debug/net8.0/aciolatte.pdb
+/home/phc-s/Downloads/aciolatte (tomorrow)/obj/Debug/net8.0/aciolatte.GeneratedMSBuildEditorConfig.editorconfig
+/home/phc-s/Downloads/aciolatte (tomorrow)/obj/Debug/net8.0/aciolatte.AssemblyInfoInputs.cache
+/home/phc-s/Downloads/aciolatte (tomorrow)/obj/Debug/net8.0/aciolatte.AssemblyInfo.cs
+/home/phc-s/Downloads/aciolatte (tomorrow)/obj/Debug/net8.0/aciolatte.csproj.CoreCompileInputs.cache
+/home/phc-s/Downloads/aciolatte (tomorrow)/obj/Debug/net8.0/aciolatte.dll
+/home/phc-s/Downloads/aciolatte (tomorrow)/obj/Debug/net8.0/refint/aciolatte.dll
+/home/phc-s/Downloads/aciolatte (tomorrow)/obj/Debug/net8.0/aciolatte.pdb
+/home/phc-s/Downloads/aciolatte (tomorrow)/obj/Debug/net8.0/aciolatte.genruntimeconfig.cache
+/home/phc-s/Downloads/aciolatte (tomorrow)/obj/Debug/net8.0/ref/aciolatte.dll
