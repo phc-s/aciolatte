@@ -1,20 +1,23 @@
-## About acio latte 🥛
+## About acio latte 🕯️
+ 
+> your ACcurate Integer Office for your .NET terminal tasks. 🥛 
 
 **Acio Latte** (stylized "acio latte", the "latter" being a pun on "lite") **is a lightweight remake of VISICALC** (aka as the first digital spreadsheet ever made for consumers) by Dan Bricklin and Bob Frankston **built with .NET Framework (C#).**
 
-Everything is properly instructed during runtime use. This project is an initial step on the coming, and greater Acio project that is going to be made by myself (https://github.com/phc-s/acio); this project was also made to recycle my C# knowledge. Beyond planning to use it regularly, **further updates are planned.**
+Everything is properly working during runtime use. This project is an initial step on the coming, and greater Acio project that is going to be made by myself (https://github.com/phc-s/acio); This project was also made to recycle my C# knowledge. Beyond planning to use it regularly, **further updates are planned. 😉**
 
-## How to use acio latte 📟
+## How to install 📟
 
-+ A compatible device with terminal (Windows, Linux or Mac)
-+ .NET 8.0 (LTS Version) installed in your hardware.
-+ Basic Knowledge of Terminal usage. 
++ 🔵 **A compatible device with terminal (Windows, Linux or Mac)**
++ 🟡 **.NET 8.0 (LTS Version) installed in your hardware.**
++ 🔴 **Basic Knowledge of Terminal usage.**
 
-You can run on any device that supports .NET and provides a proper terminal, when downloaded, simply insert "dotnet run" in your directory's console and dive in acio latte.
+You can run on any device that supports .NET and provides a proper terminal, when downloaded, simply insert "dotnet run" in your directory's console and dive in acio latte. For a while, that app isn't a standalone, user-friendly application. An executable applet is being planned. (be careful when running on newer .NET releases, it may be unstable).
 
-## How to use
+## How to use 🛸
 
-When I get done, I will give detailed instructions here!
+**Regarding use instructions. access:** 
++ https://github.com/phc-s/aciolatte/blob/main/INSTRUCTIONS.txt
 
 ## Technologies ⚙️
 
@@ -25,6 +28,10 @@ Here you can verify all of the tools used to develop *ACIO LATTE*. Listed below,
 + .NET 8.0.407 Runtime
 + Linux Terminal
 + Git System
+
+## About contribution ⭐:
+
+*This app is in the development process; your feedback and support are appreciated. Just open an issue when you report a software error and send a pull request if you're willing to contribute and share your ideas! ✨*
 
 ## License 📕:
 
