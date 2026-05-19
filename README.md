@@ -1,3 +1,5 @@
+![aciolatte](./BANNER.png)
+
 ## About acio latte 🕯️
  
 > your ACcurate Integer Office for your .NET terminal tasks. 🥛 
@@ -16,7 +18,7 @@ You can run on any device that supports .NET and provides a proper terminal, whe
 
 ## How to use 🛸
 
-**Regarding use instructions. access:** 
+**Regarding use instructions, access:** 
 + https://github.com/phc-s/aciolatte/blob/main/INSTRUCTIONS.txt
 
 ## Technologies ⚙️
