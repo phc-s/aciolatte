@@ -1,8 +1,9 @@
 ![aciolatte](./BANNER.png)
-
 ## About acio latte 🕯️
- 
-> your ACcurate Integer Office for your .NET terminal tasks. 🥛 
+
+> your ACcurate Integer Office for your .NET terminal tasks. 🥛
+
+> Release 1.00 is now available to be downloaded!
 
 **Acio Latte** (stylized "acio latte", the "latter" being a pun on "lite") **is a lightweight remake of VISICALC** (aka as the first digital spreadsheet ever made for consumers) by Dan Bricklin and Bob Frankston **built with .NET Framework (C#).**
 
